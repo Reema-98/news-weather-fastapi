@@ -1,0 +1,1 @@
+A FastAPI application that delivers real-time news headlines and weather updates using NewsAPI and OpenWeatherMap. The app supports user authentication (JWT-based), organized using clean architecture with separate routers, services, and repository layers.
