@@ -49,10 +49,10 @@ uvicorn newsweather.main:app --reload
 - `POST /logout`
 
 ### News (requires JWT)
-- `GET /news?search=India`
+- `GET /news?search=searchparamenter`
 
 ### Weather (public)
-- `GET /weather?city=Delhi`
+- `GET /weather?city=cityname`
 
 
 
