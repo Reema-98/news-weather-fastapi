@@ -1,2 +1,5 @@
 __pycache__
+virtual-env
 .env
+.vscode
+.DS_Store
